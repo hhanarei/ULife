@@ -18,3 +18,17 @@ Students currently jump between Moodle, emails, and budgeting apps. This leads t
 git clone https://github.com/hhanarei/ULife
 cd ULife
 pip install -r requirements.txt
+
+## Usage
+
+Run the application:
+
+```bash
+python src/main.py
+
+## Technologies
+
+- Python
+- SQLite
+- Object-Oriented Programming (OOP)
+- Role-Based Access Control (RBAC)
