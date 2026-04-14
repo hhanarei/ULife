@@ -19,7 +19,7 @@ git clone https://github.com/hhanarei/ULife
 cd ULife
 pip install -r requirements.txt
 
-```md
+```
 ## Usage
 
 Run the application:
@@ -27,7 +27,8 @@ Run the application:
 ```bash
 python src/main.py
 
-```md
+
+```
 ## Technologies
 
 - Python
@@ -36,7 +37,7 @@ python src/main.py
 - Role-Based Access Control (RBAC)
 
 
-```md
+
 ## Structure
 
 src/ - main source code  
