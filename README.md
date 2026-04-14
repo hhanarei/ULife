@@ -32,3 +32,10 @@ python src/main.py
 - SQLite
 - Object-Oriented Programming (OOP)
 - Role-Based Access Control (RBAC)
+
+### Structure
+
+src/ - main source code  
+docs/ - documentation  
+tests/ - test files  
+assets/ - images or extra files  
